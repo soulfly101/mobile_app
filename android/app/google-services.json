@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047875439292",
+    "project_id": "midsem-auth-app",
+    "storage_bucket": "midsem-auth-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047875439292:android:047163710cf335eb85deb9",
+        "android_client_info": {
+          "package_name": "com.example.midsem_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRQR9i90jgcWshK4HtvxhPEZhHxhWuGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
